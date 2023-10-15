@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1148px;
+    margin: 0 auto;
+}
+
+
+
+header {
+    background: url(https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80);
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+    color: #ffff;
+    margin-bottom: 10rem;
+    
+    box-shadow: inset 0 0 0 0 3000px rgba(0,0,0,0.7);
+}
+ nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0;
+ }
+
+ nav a {
+
+    color: #ffff;
+    text-decoration: none;
+ }
+
+ .header-infotop {
+    margin-top: 10rem;
+
+ }
+
+ .header-infotop h3 {
+    font-size: 2.5rem;
+    font-weight: bolder;
+ }
+
+ .header-info {
+    font-size: 0.5rem;
+    font-weight: lighter;
+ }
+
+.header-btn button {
+    padding: 0.5rem;
+    width: 200px;
+    background-color: #006C6C;
+    color: #ffff;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 1rem;
+}
+.header-btn button:hover {
+
+    background: #49ad64;
+}
+
+.activitie {
+    text-align: center;
+    padding: 3rem 0;
+    
+}
+
+.main1 {
+    color: blue;
+    margin-top: -180px;
+    margin-bottom: 180px;
+    
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+    font-size: 1.5rem;
+    margin-bottom: 35px;
+    margin-top: 30px;
+
+}
+ 
+.activitie7 {
+    color: black;
+}
+
+
+
+
+.activitie6 {
+
+    color: black;
+}
+
+h4 {
+    margin-bottom: 35px;
+    font-weight: bolder;
+}
+
+.activitie-img1 {
+    margin-bottom: 20px;
+}
+
+.activitie-title {
+    color: black;
+    font-weight: lighter;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-size: 1.5rem;
+}
+
+.newletter {
+    background: url(https://images.unsplash.com/photo-1504203700686-f21e703e5f1c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1766&q=80);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    box-shadow: inset 0 0 0 0 5000px rgba(0,0,0,0.9);
+}
+
+.newletter-title {
+
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    color: #ffff;
+}
+
+h5 {
+    font-size: 2rem;
+   font-weight: bolder;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.5rem;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+
+.header-btn1 button {
+    padding: 0.5rem;
+    width: 150px;
+    background-color: #006C6C;
+    color: #ffff;
+    border: none;
+    border-radius: 5px;
+}
+
+.header-btn1 button:hover {
+
+    background: #49ad64;
+}
+
